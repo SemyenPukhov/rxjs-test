@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SemyenPukhov/rxjs-test.github.io/static/css/main.c2510eda.chunk.css",
+    "main.js": "/SemyenPukhov/rxjs-test.github.io/static/js/main.29f2aaed.chunk.js",
+    "main.js.map": "/SemyenPukhov/rxjs-test.github.io/static/js/main.29f2aaed.chunk.js.map",
+    "runtime-main.js": "/SemyenPukhov/rxjs-test.github.io/static/js/runtime-main.0d036a36.js",
+    "runtime-main.js.map": "/SemyenPukhov/rxjs-test.github.io/static/js/runtime-main.0d036a36.js.map",
+    "static/js/2.70d18145.chunk.js": "/SemyenPukhov/rxjs-test.github.io/static/js/2.70d18145.chunk.js",
+    "static/js/2.70d18145.chunk.js.map": "/SemyenPukhov/rxjs-test.github.io/static/js/2.70d18145.chunk.js.map",
+    "index.html": "/SemyenPukhov/rxjs-test.github.io/index.html",
+    "precache-manifest.292b4b1aa3cf0725c078459549843f9f.js": "/SemyenPukhov/rxjs-test.github.io/precache-manifest.292b4b1aa3cf0725c078459549843f9f.js",
+    "service-worker.js": "/SemyenPukhov/rxjs-test.github.io/service-worker.js",
+    "static/css/main.c2510eda.chunk.css.map": "/SemyenPukhov/rxjs-test.github.io/static/css/main.c2510eda.chunk.css.map",
+    "static/js/2.70d18145.chunk.js.LICENSE.txt": "/SemyenPukhov/rxjs-test.github.io/static/js/2.70d18145.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SemyenPukhov/rxjs-test.github.io/static/media/temperature-svgrepo-com.c9f8f162.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d036a36.js",
+    "static/js/2.70d18145.chunk.js",
+    "static/css/main.c2510eda.chunk.css",
+    "static/js/main.29f2aaed.chunk.js"
+  ]
+}
